@@ -4,9 +4,9 @@
    ・ページを開いたら、科目の全スライドを裏で1つずつ取って保存する（まだ開いていない回もオフラインで開けるように）。
      中身が変わったものだけ取り直す（ハッシュで判断）。 */
 const NS = "suu1-slides";
-const VERSION = "6a639c4914e8";
+const VERSION = "18b6b636d4e4";
 const FILES = {
- "index.html": "5f44db2edc38",
+ "index.html": "61379d13ceac",
  "quadratic/3-17_furikaeri-niji.html": "eaad0eb72b68",
  "quadratic/3-18_setsumatsu-mondai.html": "73b60d2547db",
  "quadratic/katex/katex.min.css": "3f94e1b737ae",
