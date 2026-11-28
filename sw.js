@@ -4,7 +4,7 @@
    ・ページを開いたら、科目の全スライドを裏で1つずつ取って保存する（まだ開いていない回もオフラインで開けるように）。
      中身が変わったものだけ取り直す（ハッシュで判断）。 */
 const NS = "suu1-slides";
-const VERSION = "76cf125e3b99";
+const VERSION = "48773201e464";
 const FILES = {
  "index.html": "61379d13ceac",
  "quadratic/3-17_furikaeri-niji.html": "eaad0eb72b68",
@@ -31,19 +31,19 @@ const FILES = {
  "quadratic/katex/fonts/KaTeX_Size3-Regular.woff2": "19a7caadfb66",
  "quadratic/katex/fonts/KaTeX_Size4-Regular.woff2": "9bed17fb92f2",
  "quadratic/katex/fonts/KaTeX_Typewriter-Regular.woff2": "7a08883fffc6",
- "trig-ratio/4-1_eikaku-sankakuhi.html": "8b2dc88550c5",
- "trig-ratio/4-2_sankakuhi-riyou.html": "41638a71bf62",
- "trig-ratio/4-3_sougo-kankei.html": "f448dae93aad",
- "trig-ratio/4-4_sankakuhi-kakuchou.html": "31b2bfac806e",
- "trig-ratio/4-5_kaku-motomeru.html": "c9cec749e6d9",
- "trig-ratio/4-6_furikaeri-sankakuhi.html": "32e61db9f994",
- "trig-ratio/4-7_setsumatsu-sankakuhi.html": "214b8a28b841",
- "trig-ratio/4-8_seigen-teiri.html": "240925570769",
- "trig-ratio/4-9_yogen-teiri.html": "2032fb31e43c",
- "trig-ratio/4-10_menseki.html": "bddd00f1ab1a",
- "trig-ratio/4-11_zukei-keiryou.html": "ea74c017fab3",
- "trig-ratio/4-12_furikaeri-seigen-yogen.html": "fb0a4bf4e9a4",
- "trig-ratio/4-13_setsumatsu-seigen-yogen.html": "b4ba86783817",
+ "trig-ratio/4-1_eikaku-sankakuhi.html": "dda4e1de10a1",
+ "trig-ratio/4-2_sankakuhi-riyou.html": "5847b38cc1bf",
+ "trig-ratio/4-3_sougo-kankei.html": "6edd6d19f1f3",
+ "trig-ratio/4-4_sankakuhi-kakuchou.html": "3300197fb6f0",
+ "trig-ratio/4-5_kaku-motomeru.html": "fe7877f616c8",
+ "trig-ratio/4-6_furikaeri-sankakuhi.html": "4d1600bbd828",
+ "trig-ratio/4-7_setsumatsu-sankakuhi.html": "c29535cd086b",
+ "trig-ratio/4-8_seigen-teiri.html": "5360e296d7ec",
+ "trig-ratio/4-9_yogen-teiri.html": "8f0d018a42dc",
+ "trig-ratio/4-10_menseki.html": "cb8e7bc2b64b",
+ "trig-ratio/4-11_zukei-keiryou.html": "f7e1c9e51cd8",
+ "trig-ratio/4-12_furikaeri-seigen-yogen.html": "a6c8838d19a4",
+ "trig-ratio/4-13_setsumatsu-seigen-yogen.html": "6d51aac19cf7",
  "trig-ratio/katex/katex.min.css": "3f94e1b737ae",
  "trig-ratio/katex/katex.min.js": "4881bfc93aaf",
  "trig-ratio/katex/fonts/KaTeX_AMS-Regular.woff2": "34494743736f",
